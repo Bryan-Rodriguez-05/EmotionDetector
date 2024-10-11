@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="Theme.EmotionDetector" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Personaliza el tema aquí -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+
+</resources>
